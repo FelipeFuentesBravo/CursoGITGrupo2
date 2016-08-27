@@ -1,0 +1,5 @@
+Mamgui: Suma
+Torti: Resta
+Matia: Potencia
+Fabian: Multiplicación
+Javier: Division
