@@ -6,13 +6,7 @@
 #Entrada:Recibe dos numeros, la base y el exponente
 #Salida:Entrega el resultado de la operacion
 def potencia(base,exponente):
-    contador=0
-    acumulador=1
-    if contador == exponente:
-        return acumulador
-    else:
         acumulador=base**exponente
-        contador=contador+1
         return acumulador
 #Funcion raiz:
 #Entrada:Recibe dos numeros, la base y el numero de raiz
